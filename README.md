@@ -69,9 +69,9 @@ Systems Engineering<br/>
 
 <h3 align="center">📊 GitHub Stats</h3>
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=SergioNikolasV&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="160" />
-&nbsp; &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SergioNikolasV&theme=tokyonight&hide_border=true&layout=compact" height="160" />
+<img src="https://github-readme-stats.vercel.app/api?username=SergioNikolasV&theme=tokyonight&hide_border=true&show_icons=true" height="160" alt="GitHub Stats" />
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SergioNikolasV&theme=tokyonight&hide_border=true&layout=compact" height="160" alt="Top Langs" />
 </div>
 
 <div align="center">
@@ -83,7 +83,7 @@ Systems Engineering<br/>
 
 <div align="center">
 <h3>🏆 Contributions Impact</h3>
-<img src="https://github-contributor-stats.vercel.app/api?username=SergioNikolasV&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" width="90%" />
+<img src="https://github-contributor-stats.vercel.app/api?username=SergioNikolasV&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" width="90%" alt="Contribution Stats" />
 <br/><br/>
-<img src="https://komarev.com/ghpvc/?username=SergioNikolasV&label=PROFILE+VIEWS&color=blue&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=SergioNikolasV&label=PROFILE+VIEWS&color=blue&style=flat" alt="Views" />
 </div>
