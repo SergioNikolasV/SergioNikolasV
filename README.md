@@ -52,13 +52,13 @@ Systems Engineering<br/>
 
 <h3 align="center">⚡ Hobbies</h3>
 <div align="center">
-<img src="https://img.shields.io/badge/Music-🎵-purple?style=flat-square" />
-<img src="https://img.shields.io/badge/Guitar-🎸-red?style=flat-square" />
-<img src="https://img.shields.io/badge/Soccer-⚽-green?style=flat-square" />
+<img src="https://img.shields.io/badge/Music-🎵-7E57C2?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/Guitar-🎸-E64A19?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/Soccer-⚽-2E7D32?style=for-the-badge&logoColor=white" />
 <br/>
-<img src="https://img.shields.io/badge/Chess-♟️-black?style=flat-square" />
-<img src="https://img.shields.io/badge/Math-➕-blue?style=flat-square" />
-<img src="https://img.shields.io/badge/Teaching-👨‍🏫-orange?style=flat-square" />
+<img src="https://img.shields.io/badge/Chess-♟️-37474F?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/Math-➕-0277BD?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/Teaching-👨‍🏫-EF6C00?style=for-the-badge&logoColor=white" />
 </div>
 
 </td>
