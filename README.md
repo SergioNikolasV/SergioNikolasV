@@ -69,11 +69,6 @@ Systems Engineering<br/>
 
 <h3 align="center">📊 GitHub Stats</h3>
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=SergioNikolasV&theme=tokyonight&hide_border=true&show_icons=true" height="170" alt="GitHub Stats" />
-</div>
-
-<div align="center">
-<br/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=SergioNikolasV&theme=tokyonight&hide_border=true" alt="streak graph" />
 </div>
 
