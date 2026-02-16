@@ -4,7 +4,7 @@
 <table align="center">
   <tr>
     <td width="50%" valign="top">
-      <h3>🚀 Sobre Mí</h3>
+      <h3>🚀 About Me</h3>
       <p>I am a creative Systems and Computer Engineering student at the National University of Colombia with hands-on experience building <b>full-stack and mobile applications</b>.</p>
       <ul>
         <li>🔭 <b>Currently:</b> Working on <b>BRIKI</b> as Product Development Leader.</li>
