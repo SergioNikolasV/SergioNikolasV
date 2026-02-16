@@ -1,25 +1,3 @@
-El problema es que copiaste las comillas triples (```) o la palabra html que aparecen al principio y al final del bloque que te envié.
-
-Cuando GitHub ve esas comillas, piensa: "Ah, el usuario quiere mostrar este código como un ejemplo de texto", en lugar de convertirlo en imágenes y tablas.
-
-🔧 Cómo arreglarlo (Paso a Paso):
-Ve a tu archivo README.md y dale a Editar (el lápiz).
-
-BORRA TODO. Que el archivo quede totalmente vacío, en blanco.
-
-Copia el código de abajo, pero OJO:
-
-❌ NO COPIES la primera línea que dice ````html`
-
-❌ NO COPIES la última línea que son solo tres comillas ```
-
-✅ COPIA SOLO desde donde dice <div align="center"> hasta donde termina la última etiqueta </div>.
-
-Pégalo asegurándote de que la primera línea (<div...) quede pegada totalmente a la izquierda, sin ningún espacio en blanco antes.
-
-Aquí tienes el código de nuevo. Copia SOLO lo de adentro:
-
-HTML
 <div align="center">
   <a href="[https://git.io/typing-svg](https://git.io/typing-svg)">
     <img src="[https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2088FF&center=true&vCenter=true&width=435&lines=Systems+%26+Computer+Engineering;Product+Leader+%40+BRIKI;Full-Stack+%26+AI+Developer](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2088FF&center=true&vCenter=true&width=435&lines=Systems+%26+Computer+Engineering;Product+Leader+%40+BRIKI;Full-Stack+%26+AI+Developer)" alt="Typing SVG" />
