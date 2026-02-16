@@ -31,15 +31,11 @@
       </p>
 
       <h3>🎓 Education</h3>
-      <div>
-        <a href="https://unal.edu.co/">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Escudo_unal_2016.png/120px-Escudo_unal_2016.png" width="55" align="left" style="margin-right:15px; margin-bottom:10px;" alt="UNAL Logo"/>
-        </a>
-        <b>Universidad Nacional de Colombia</b><br/>
-        Systems Engineering<br/>
-        <i>Bogotá D.C.</i>
-      </div>
-      <br clear="all" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Escudo_unal_2016.png/120px-Escudo_unal_2016.png" width="50" align="left" style="margin-right:15px;" alt="UNAL Logo"/>
+      <b>Universidad Nacional de Colombia</b><br/>
+      Systems Engineering<br/>
+      <i>Bogotá D.C.</i>
+      <br/><br/>
     </td>
     
     <td width="50%" valign="top">
@@ -52,8 +48,8 @@
       
       <h3 align="center">⚡ Hobbies</h3>
       <div align="center">
-        <img src="https://img.shields.io/badge/Music-7000FF?style=for-the-badge&logoColor=white" />
-        <img src="https://img.shields.io/badge/Guitar-FF4500?style=for-the-badge&logoColor=white" />
+        <img src="https://img.shields.io/badge/Music-7000FF?style=for-the-badge&logo=applemusic&logoColor=white" />
+        <img src="https://img.shields.io/badge/Guitar-E64A19?style=for-the-badge&logoColor=white" />
         <img src="https://img.shields.io/badge/Soccer-00C853?style=for-the-badge&logoColor=white" />
         <br/>
         <img src="https://img.shields.io/badge/Chess-263238?style=for-the-badge&logoColor=white" />
